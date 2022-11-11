@@ -1,0 +1,14 @@
+{
+  "tests": [
+    {
+      "name": "print test",
+      "setup": "",
+      "run": "python3 print_test.py",
+      "input": "printing pushkar",
+      "output": "printing pushkar",
+      "comparison": "included",
+      "timeout": 10,
+      "points": null
+    }
+  ]
+}
